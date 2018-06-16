@@ -15,7 +15,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-            o que eu quiser
+            NORBS SEU LINDO
       </div>
       <div class="col-lg-6">
       </div>
